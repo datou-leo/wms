@@ -3,4 +3,4 @@
 
 1.登录页面
 --
-![image](截图/screenshots/login.png)
+![image](screenshots/login.png)
